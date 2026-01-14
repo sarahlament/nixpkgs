@@ -23426,6 +23426,12 @@
     githubId = 11277967;
     name = "Sarah Clark";
   };
+  sarahlament = {
+    email = "sarah@lament.gay";
+    github = "sarahlament";
+    githubId = 4612427;
+    name = "Sarah Lament";
+  };
   sarcasticadmin = {
     email = "rob@sarcasticadmin.com";
     github = "sarcasticadmin";
